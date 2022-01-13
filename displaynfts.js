@@ -189,7 +189,7 @@ async function getNFTDetailsUser() {
     <i>${array[i].description}</i>
     <br>
     <br> 
-    <button id="more details`+i+`" onclick = "gotoDetails(\``+[array[i].token_address, array[i].token_id]+`\`);">details</button>
+    <button id="more details`+i+`" onclick = "gotoDetails(\``+[array[i].token_address, array[i].token_id]+`\`);">view details</button>
     <br>
     <p style="clear:both";> </p>
     `;//MAKE A FUNCTION FOR THE BUTTON
