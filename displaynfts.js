@@ -184,8 +184,8 @@ async function getNFTDetailsUser() {
     width="auto" 
     height="200"
     
-    style = "float: left"; "margin-bottom: 100px";
-    "margin-right: 150px";/>
+    style = "float: left; margin-bottom: 50px;
+    margin-right: 50px";/>
     <i>${array[i].description}</i>
     <br>
     <br> 
