@@ -215,7 +215,7 @@ async function getNFTDetailsUser() {
   // Append newyly created card element to the container
   container.innerHTML += content+`</div> <br>`;
   //console.log("details"+i)
-  document.getElementById("details"+i).onclick = goBack;
+  //document.getElementById("details"+i).onclick = goBack;
 }
       
       //console.log(container)
