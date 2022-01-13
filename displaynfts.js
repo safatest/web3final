@@ -183,9 +183,9 @@ async function getNFTDetailsUser() {
     <img src="${array[i].image}"
     width="auto" 
     height="200"
-    margin-bottom: 100px;
-    margin-right: 150px;
-    style = "float: left"/>
+    
+    style = "float: left"; "margin-bottom: 100px";
+    "margin-right: 150px";/>
     <i>${array[i].description}</i>
     <br>
     <br> 
